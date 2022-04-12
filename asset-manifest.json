@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.d268e6be.chunk.css",
+    "main.js": "/Weather-App/static/js/main.63a14f56.chunk.js",
+    "main.js.map": "/Weather-App/static/js/main.63a14f56.chunk.js.map",
+    "runtime~main.js": "/Weather-App/static/js/runtime~main.671df5a1.js",
+    "runtime~main.js.map": "/Weather-App/static/js/runtime~main.671df5a1.js.map",
+    "static/css/2.261a0adc.chunk.css": "/Weather-App/static/css/2.261a0adc.chunk.css",
+    "static/js/2.9b0d9541.chunk.js": "/Weather-App/static/js/2.9b0d9541.chunk.js",
+    "static/js/2.9b0d9541.chunk.js.map": "/Weather-App/static/js/2.9b0d9541.chunk.js.map",
+    "index.html": "/Weather-App/index.html",
+    "precache-manifest.2f4a60bf1e2d094b43ab883dc1e3d81d.js": "/Weather-App/precache-manifest.2f4a60bf1e2d094b43ab883dc1e3d81d.js",
+    "service-worker.js": "/Weather-App/service-worker.js",
+    "static/css/2.261a0adc.chunk.css.map": "/Weather-App/static/css/2.261a0adc.chunk.css.map",
+    "static/css/main.d268e6be.chunk.css.map": "/Weather-App/static/css/main.d268e6be.chunk.css.map",
+    "static/media/index.css": "/Weather-App/static/media/154301-minimalism-sunset-water-cloud-water_resources-3840x2160.1d740f19.jpg",
+    "static/media/weather-icons.css": "/Weather-App/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  }
+}
